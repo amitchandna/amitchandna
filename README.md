@@ -1,12 +1,12 @@
 ## Hi there 👋 Nice to e-meet you, I'm Amit!
 
-### About me: 
 #### I am a Full Stack Data Scientist/Data Engineer/Software Engineer. 
 ##### What does that mean??
 * I can crush LeetCode problems (like a SWE)
 * Use distributed systems/computing to move petabytes of data (like a DE)
 * Create a Neural Network to aid in decisioning (like a DS).
-
+  
+### About me: 
 - 🔭 I’m currently working on a new [Agricultural DS project](https://github.com/amitchandna/agriculture)
 - 🌱 I’m currently learning how to make some more kickass dashboards to demonstrate my backend skills
 - 👯 I’m looking to collaborate on leveraging Neural Networks in a more real-time application. 
