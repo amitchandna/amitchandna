@@ -2,9 +2,9 @@
 
 #### I am a Full Stack Data Scientist/Data Engineer/Software Engineer. 
 ##### What does that mean??
-* I can crush LeetCode problems (like a SWE)
-* Use distributed systems/computing to move petabytes of data (like a DE)
-* Create a Neural Network to aid in decisioning (like a DS).
+* I can crush LeetCode problems (like a Software Engineer)
+* Use distributed systems/computing to move petabytes of data (like a Data Engineer)
+* Create a Neural Network to aid in decisioning (like a Data Scientist).
   
 ### About me: 
 - 🔭 I’m currently working on a new [Agricultural DS project](https://github.com/amitchandna/agriculture)
